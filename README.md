@@ -1,6 +1,6 @@
 # Dotfiles Configuration
 
-<img width="2998" height="1649" alt="image" src="https://www.mediafire.com/view/cbt0dss6kwuclbi/readme.png/file" />
+<img width="2998" height="1649" alt="readme" src="https://github.com/user-attachments/assets/28f81871-7872-480b-8871-2e11ef3e7c1d" />
 
 ## Description
 
@@ -31,7 +31,7 @@ Terminal Emulator (Warp)
 - Block-based Interface: Commands are organized in blocks, making it easier to navigate terminal history
 - Smart Autocomplete: Context-aware command completion that understands your workflow
 
-<img width="2998" height="1649" alt="image" src="https://www.mediafire.com/view/21fde9spriqp1ia/Screenshot_2025-10-19_at_23.09.39.png/file" />
+<img width="1724" height="1028" alt="Screenshot 2025-10-19 at 23 09 39" src="https://github.com/user-attachments/assets/bbbeb136-e460-4625-856e-963bdade3358" />
 
 System Information Display (Fastfetch)
 
@@ -39,4 +39,4 @@ System Information Display (Fastfetch)
 - Comprehensive system details: OS, kernel, packages, hardware specs, memory usage
 - Visual enhancements: Custom separators and color-coded information sections
 
-<img width="2998" height="1649" alt="image" src="https://www.mediafire.com/view/jv48n90lkyb922g/Screenshot_2025-10-19_at_23.06.48.png/file" />
+<img width="1726" height="497" alt="Screenshot 2025-10-19 at 23 06 48" src="https://github.com/user-attachments/assets/133ebade-9de6-4c26-bf7f-7d130bcbc8e1" />
